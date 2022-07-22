@@ -1,0 +1,1 @@
+{"version":3,"sources":["scripts/main.js"],"names":["document","querySelector","style","cssText"],"mappings":";AAAA,aAEAA,SAASC,cAAc,WAAWC,MAAMC,QAAxC","file":"main.11004cd6.js","sourceRoot":"..\\src","sourcesContent":["'use strict';\n\ndocument.querySelector('.spider').style.cssText = `\n  top: 50%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n`;\n"]}
